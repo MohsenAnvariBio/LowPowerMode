@@ -1,0 +1,2 @@
+# LowPowerMode
+SleepOnExit and WFI
